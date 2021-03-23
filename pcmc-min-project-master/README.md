@@ -1,6 +1,6 @@
 # pcmc-min-project
 
-install dash anf pyplot by
+install dash and pyplot by
 ## pip install dash 
 ## pip install pyplot
 # to Run
